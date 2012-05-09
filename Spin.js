@@ -17,8 +17,9 @@ original script
 requires:
 - MooTools 1.3+
 
-provides: [Spin]
-...
+provides:
+- Spin
+- Element.spin()
 */
 
 var Spin = new Class({
