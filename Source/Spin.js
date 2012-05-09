@@ -1,16 +1,24 @@
 /*
- * MooTools Spin Plugin 1.0
- * Free to use under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
-*/
+---
+description: Image and content slider
 
-/* ----!!!!!!!!!!!!!!!!!----
- * This is ported from:
- * jQuery Orbit Plugin 1.2.3
- * www.ZURB.com/playground
- * Copyright 2010, ZURB
- * Free to use under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
+license: MIT-style
+
+authors:
+- MadFarmer
+
+original script
+- jQuery Orbit Plugin 1.2.3
+- www.ZURB.com/playground
+- Copyright 2010, ZURB
+- Free to use under the MIT license.
+- http://www.opensource.org/licenses/mit-license.php
+
+requires:
+- MooTools 1.3+
+
+provides: [Spin]
+...
 */
 
 var Spin = new Class({
