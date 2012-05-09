@@ -3,7 +3,6 @@ Spin
 
 This is a port of jQuery Orbit
 
-
 How to use
 ----------
 
