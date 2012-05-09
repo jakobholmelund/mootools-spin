@@ -15,7 +15,7 @@ original script
 - http://www.opensource.org/licenses/mit-license.php
 
 requires:
-- MooTools 1.3+
+- core/1.2
 
 provides:
 - Spin
