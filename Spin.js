@@ -14,12 +14,16 @@ original script
 - Free to use under the MIT license.
 - http://www.opensource.org/licenses/mit-license.php
 
-requires:
-- core/1.2
-
 provides:
+- Element.spin
 - Spin
-- Element.spin()
+
+requires:
+- core/1.3.0:Element
+- core/1.3.0:Elements
+- core/1.3.0:Array
+
+...
 */
 
 var Spin = new Class({
