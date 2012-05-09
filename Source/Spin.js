@@ -6,13 +6,7 @@ license: MIT-style
 
 authors:
 - MadFarmer
-
-original script
-- jQuery Orbit Plugin 1.2.3
 - www.ZURB.com/playground
-- Copyright 2010, ZURB
-- Free to use under the MIT license.
-- http://www.opensource.org/licenses/mit-license.php
 
 provides: [Element.spin, Spin]
 - Element.spin
