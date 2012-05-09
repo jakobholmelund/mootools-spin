@@ -3,6 +3,8 @@ Spin
 
 This is a port of jQuery Orbit
 
+![Screenshot](http://w857226.open.ge.tt/1/files/89QVUSH/0/blob/x675?noinc=1)
+
 How to use
 ----------
 
