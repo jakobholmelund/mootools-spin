@@ -14,7 +14,7 @@ original script
 - Free to use under the MIT license.
 - http://www.opensource.org/licenses/mit-license.php
 
-provides:
+provides: [Element.spin, Spin]
 - Element.spin
 - Spin
 
