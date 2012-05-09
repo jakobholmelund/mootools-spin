@@ -1,3 +1,18 @@
+/*
+ * MooTools Spin Plugin 1.0
+ * Free to use under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+*/
+
+/* ----!!!!!!!!!!!!!!!!!----
+ * This is ported from:
+ * jQuery Orbit Plugin 1.2.3
+ * www.ZURB.com/playground
+ * Copyright 2010, ZURB
+ * Free to use under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+*/
+
 var Spin = new Class({
 	Implements: [Events, Options],
 	options:{
