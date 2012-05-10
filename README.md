@@ -14,7 +14,7 @@ This is a port of jQuery Orbit
         });
     </script>
 
-##dvanced use
+##Advanced use
 ----------
     <script type="text/javascript">
     window.addEvent("domready", function() {
